@@ -18,7 +18,7 @@ Firstly, after fetching the data from web pages using tools like requests to ret
 
 Next, using pandas's to_excel() function allows for the conversion of the DataFrame into an Excel file. This function enables you to specify the file path and various format options, ensuring flexibility in how the data is stored.
 
-# Excel File Link : https://github.com/Salman-id85/Web-Scraping_Python/blob/main/output1.xlsx
+Excel File Link : https://github.com/Salman-id85/Web-Scraping_Python/blob/main/output1.xlsx
 Throughout this process, it's essential to handle the data appropriately. This includes ensuring proper data types, managing formatting, and performing any necessary preprocessing before exporting to Excel.
 
 Lastly, it's crucial to remain mindful of compliance with legal guidelines and ethical considerations when scraping and handling data from websites, ensuring that data extraction and storage practices align with relevant regulations and ethical standards.
